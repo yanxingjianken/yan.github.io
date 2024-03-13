@@ -1,2 +1,2 @@
-# x_yan.github.io
+# yan.github.io
 Ken's Personal Homepage
